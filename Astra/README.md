@@ -6,7 +6,7 @@ Its full name is "Универсальная Телеигровая Приста
 The files found here are from ZXBYTE's site, translated to English where required.<br>
 
 ## Useful Links
-- [ZXBYTE](https://zxbyte.ru/astra.htm)
+- [ZXBYTE](https://zxbyte.org/astra.htm)
 
 ## Youtube Videos
 - [Part 1](https://youtu.be/gDP2ERXGaYo)
