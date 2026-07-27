@@ -1,4 +1,4 @@
-# Astra Information
+# Astra/Астра Information
 A Soviet-era Sinclair ZX Spectrum clone from Minsk in the Byelorussian SSR.<br>
 
 Its full name is "Универсальная Телеигровая Приставка Астра", or "Universal Television Game Console Astra".<br>
@@ -8,7 +8,32 @@ The files found here are from [ZXBYTE's site](https://zxbyte.org), translated to
 ## [Schematics](/Astra/Schematics)
 Schematics and board layout with Western-equivalent part IDs added.<br>
 
-## Video Pinout
+## Cassette Pinout (X1)
+The cassette interface uses a 5-pin DIN labelled "МАГ" (Магнетофон).<bnr>
+
+IMPORTANT NOTE!  The [schematic pinout](/Astra/Schematics/X1_Pinout_RU.jpg) disagrees with the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg)!.<br>
+
+Note that the schematic lists IN FL (signal 33) and OUT FL (signal 34) but I can't see where they are used.<br>
+
+| Pin | Signal         |
+|-----|----------------|
+| 1   | EAR (Вх. Маг)  |
+| 2   | Ground (0V)    |
+| 3   | MIC (Вых. Маг) |
+| 4   | IN FL (?)      |
+| 5   | OUT FL (?)     |
+
+Now if we look at the manual's pinout:<br>
+
+| Pin | Signal      |
+|-----|-------------|
+| 1   | MIC (Выход) |
+| 2   | Ground (0V) |
+| 3   | EAR (Вход)  |
+| 4   |             |
+| 5   |             |
+
+## Video Pinout (X3)
 The audio and video are output via a 2x4 РГ1Н-1 connector labelled "ТВ".  On the [schematic](/Astra/Schematics/X3_Pinout_RU.jpg) it is interface "X3".<br>
 
 | Pin | Signal                   |
@@ -21,6 +46,19 @@ The audio and video are output via a 2x4 РГ1Н-1 connector labelled "ТВ".  O
 | 6   | Audio (УНЧ)              |
 | 7   | Inverted sync (Инверсия) |
 | 8   | Ground (Общий)           |
+
+## Power Pinout (X4)
+The power input is a 5-pin DIN labelled "БП" (Блок Питания).  On the schematic is it interface "X4", but in the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg) it is interface "X2".<br>
+
+Note that the schematic lists ±12V but I don't see it actually used - signals 31 & 32 on the schematic - follow the manual pinout.<br>
+
+| Pin | Signal   |
+|-----|----------|
+| 1   | +5V      |
+| 2   |          |
+| 3   | 0V       |
+| 4   | -12V (?) |
+| 5   | +12V (?) |
 
 ## Useful Links
 - [ZXBYTE](https://zxbyte.org/astra.htm)
