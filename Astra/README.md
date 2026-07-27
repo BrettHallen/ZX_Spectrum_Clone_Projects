@@ -11,7 +11,7 @@ Schematics and board layout with Western-equivalent part IDs added.<br>
 ## Cassette Pinout (X1)
 The cassette interface uses a 5-pin DIN labelled "МАГ" (Магнетофон).<bnr>
 
-IMPORTANT NOTE!  The [schematic pinout](/Astra/Schematics/X1_Pinout_RU.jpg) disagrees with the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg)!.<br>
+IMPORTANT NOTE!  The [schematic pinout](/Astra/Schematics/X1_Pinout_RU.jpg) disagrees with the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg)!<br>
 
 Note that the schematic lists IN FL (signal 33) and OUT FL (signal 34) but I can't see where they are used.<br>
 
