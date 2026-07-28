@@ -8,8 +8,10 @@ The files found here are from [ZXBYTE's site](https://zxbyte.org), translated to
 ## [Schematics](/Astra/Schematics)
 Schematics and board layout with Western-equivalent part IDs added.<br>
 
+IMPORTANT - several of the interface pinouts have conflicting pin assignments when comparing the schematic with the manual.  The manual pinout matches my machine.<br>
+
 ## Cassette Pinout (X1)
-The cassette interface uses a 5-pin DIN labelled "МАГ" (Магнетофон).<bnr>
+The cassette interface uses a 5-pin DIN labelled "МАГ" (Магнетофон).<br>
 
 IMPORTANT NOTE!  The [schematic pinout](/Astra/Schematics/X1_Pinout_RU.jpg) disagrees with the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg)!<br>
 
