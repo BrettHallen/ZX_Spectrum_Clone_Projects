@@ -47,6 +47,8 @@ The audio and video are output via a 2x4 РГ1Н-1 connector labelled "ТВ".  O
 | 7   | Inverted sync (Инверсия) |
 | 8   | Ground (Общий)           |
 
+The manual pinout lists pin 1 as "Полутон" or half-tone which seems to match.<br>
+
 ## Power Pinout (X4)
 The power input is a 5-pin DIN labelled "БП" (Блок Питания).  On the schematic is it interface "X4", but in the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg) it is interface "X2".<br>
 
