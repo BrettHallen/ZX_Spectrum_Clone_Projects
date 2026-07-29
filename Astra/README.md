@@ -13,7 +13,7 @@ IMPORTANT - several of the interface pinouts have conflicting pin assignments wh
 ## Cassette Pinout (X1)
 The cassette interface uses a 5-pin DIN labelled "МАГ" (Магнетофон).<br>
 
-IMPORTANT NOTE!  The [schematic pinout](/Astra/Schematics/X1_Pinout_RU.jpg) disagrees with the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg)!<br>
+IMPORTANT NOTE!  The [schematic pinout](/Astra/Schematics/X1_Pinout_RU.jpg) disagrees with the [manual pinout](/Astra/Schematics/Astra_Manual_Pinout.jpeg)!  For my machine I have used the manual's pinout.<br>
 
 Note that the schematic lists IN FL (signal 33) and OUT FL (signal 34) but I can't see where they are used.<br>
 
@@ -71,6 +71,8 @@ Note that the schematic lists ±12V but I don't see it actually used - signals 3
 - [Part 1](https://youtu.be/gDP2ERXGaYo)
 - [Part 2](https://youtu.be/xESQuC1y398)
 - [Part 3](https://youtu.be/SmFEAmI-PiA)
+- [Part 4](https://youtu.be/jdW-dMJSBxg)
+- 
 
   
 
