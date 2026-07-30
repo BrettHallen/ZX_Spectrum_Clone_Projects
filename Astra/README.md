@@ -5,6 +5,9 @@ Its full name is "Универсальная Телеигровая Приста
 
 The files found here are from [ZXBYTE's site](https://zxbyte.org), translated to English where required and with my own additional information added.<br>
 
+## [АСТРАПАД](/Astra/AstraPad)
+My attempt at a simple Joypad-style design for the Astra.<br>
+
 ## [Schematics](/Astra/Schematics)
 Schematics and board layout with Western-equivalent part IDs added.<br>
 
@@ -72,7 +75,9 @@ Note that the schematic lists ±12V but I don't see it actually used - signals 3
 - [Part 2](https://youtu.be/xESQuC1y398)
 - [Part 3](https://youtu.be/SmFEAmI-PiA)
 - [Part 4](https://youtu.be/jdW-dMJSBxg)
-- 
+- [Part 5](https://youtu.be/Pdt0EjIXJ0o)
+
+
 
   
 
