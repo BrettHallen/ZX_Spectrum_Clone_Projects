@@ -76,11 +76,11 @@ Note that the schematic lists ±12V but I don't see it actually used - signals 3
 - [ZXBYTE](https://zxbyte.org/astra.htm)
 
 ## Youtube Videos
-- [Part 1](https://youtu.be/gDP2ERXGaYo)
-- [Part 2](https://youtu.be/xESQuC1y398)
-- [Part 3](https://youtu.be/SmFEAmI-PiA)
-- [Part 4](https://youtu.be/jdW-dMJSBxg)
-- [Part 5](https://youtu.be/Pdt0EjIXJ0o)
+- [Part 1: First look](https://youtu.be/gDP2ERXGaYo)
+- [Part 2: Power on - NOK](https://youtu.be/xESQuC1y398)
+- [Part 3: It works!](https://youtu.be/SmFEAmI-PiA)
+- [Part 4: Loading a game](https://youtu.be/jdW-dMJSBxg)
+- [Part 5: Bodging together a joypad](https://youtu.be/Pdt0EjIXJ0o)
 
 
 
