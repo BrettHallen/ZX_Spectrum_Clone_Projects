@@ -1,0 +1,8 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator
+J1,1,Connector,PinHeader_2x04_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x04, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket
+SW1,1,ВПЕРЁД,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",
+SW2,1,НАЗАД,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",
+SW3,1,ВЛЕВО,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",
+SW4,1,ВПРАВО,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",
+SW5,1,ОГОНЬ,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",
+SW6,1,БЫСТРЫЙ ОГОНЬ,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",

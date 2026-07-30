@@ -1,0 +1,12 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+154.466138,-117.377366,0.0,top,H1,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+79.466138,-78.127366,0.0,top,H2,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+159.966138,-78.127366,0.0,top,H3,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+79.466138,-117.377366,0.0,top,H4,,,MountingHole_3.2mm_M3_DIN965,MountingHole,tht
+115.886138,-76.877366,90.0,top,J1,,,PinHeader_2x04_P2.54mm_Vertical,Connector,tht
+96.430604,-92.4129,135.0,top,SW1,,,SW_PUSH-12mm,ВПЕРЁД,tht
+97.117789,-113.564551,135.0,top,SW2,,,SW_PUSH-12mm,НАЗАД,tht
+89.653323,-94.475715,-135.0,top,SW3,,,SW_PUSH-12mm,ВЛЕВО,tht
+110.903323,-93.725716,-135.0,top,SW4,,,SW_PUSH-12mm,ВПРАВО,tht
+131.966138,-100.127366,0.0,top,SW5,,,SW_PUSH-12mm,ОГОНЬ,tht
+148.216138,-100.127366,0.0,top,SW6,,,SW_PUSH-12mm,БЫСТРЫЙ ОГОНЬ,tht
