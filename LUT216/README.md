@@ -3,6 +3,10 @@ My attempt at some English translation for Z.A.N.'s BMC-based Sinclair ZX Spectr
 
 WORK IN PROGRESS!<br>
 
+Here's a comparison of the LUT216 board (a Spectrum clone) with a ZX81:<br>
+
+![Comparison of LUT216 with ZX81](/LUT216/ZX81_vs_ULA216.jpg)
+
 The name "LUT216" comes from (I believe):
 - "ЛУТ" (LUT) = Laser-UV Technology (Лазерно-Ультрафиолетовая Технология), the Russian term for the Toner Transfer + UV exposure/photoresist method of DIY PCB production
 - "216" = the КА1515ХМ1-216 [Базового Матричного Кристалла](https://ru.wikipedia.org/wiki/1515ХМ1) (Basic Matrix Crystal) that is the heart of this computer
@@ -154,7 +158,7 @@ All mistakes are mine - I couldn't find a BOM so have generated this from the sc
 - Note 2: The KT-13 (flat plastic) package has pin order B-C-E, if you are using a Western equivalent (i.e. BC337, BC547 or 2N3904) be sure to check the pin order!  However the Soviet parts seem to be easily available on ebay so I'd just source them.
 - Note 3: I suspect this should be R56
 - Note 4: I guessed at the Soviet inductor (choke) part ID - these should be available on ebay: try searching for "200uh soviet choke"
-- Note 5: Unspecified on schematic, match the capacitor value to your particular particular crystal (i.e. 22pF, 220)
+- Note 5: Unspecified on schematic, I assume you match the capacitor value to your particular particular crystal (i.e. 22pF, 220)
 - Note 6: Unspecified on schematic, used in reset circuit so assuming 1µF electrolytic
 - Note 7: You could use standard 100nF (104) instead of 68nF for these decoupling capacitors
 - Note 8: This is for the keyboard connector, I think Harting 09170169622 or similar
