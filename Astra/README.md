@@ -9,7 +9,7 @@ The files found here are from [ZXBYTE's site](https://zxbyte.org), translated to
 My attempt at a simple Joypad-style design for the Astra.<br>
 
 ## [ROMs](/Astra/ROMs)
-The Astra has two 8KB ROMs containing the modified Spectrum firmware: the changes are the [boot screen](/Astra/Images/Astra_Boot_Screen.png) and the character font (reminds me of the Amstrad CPC font).
+The Astra has two 8KB ROMs containing the modified Spectrum firmware: the changes are the [boot screen](/Astra/Images/Astra_Boot_Screen.png) and the [character font](/Astra/Images/Astra_vs_ZX_font.png) (reminds me of the Amstrad CPC font).
 
 It also has four small PROMs - one is socketed.  I plan to (try to) dump the other three using these [Arduino sketches](/Astra/Arduino_PROM_dumper).
 
