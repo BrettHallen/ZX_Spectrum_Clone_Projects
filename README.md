@@ -4,6 +4,9 @@ Hardware projects & information for Sinclair ZX Spectrum clone computers
 ## [Datasheets](/Datasheets)
 Relevant datasheets for PCB designs.<br>
 
+## [Astra](/Astra)
+Information about the Soviet Spectrum clone.<br>
+
 ## [Belarus Byte DIN to VGA](/Belarus_Byte_DIN-to-VGA)
 Convert 5-pin DIN video output to DE15 VGA:
 
