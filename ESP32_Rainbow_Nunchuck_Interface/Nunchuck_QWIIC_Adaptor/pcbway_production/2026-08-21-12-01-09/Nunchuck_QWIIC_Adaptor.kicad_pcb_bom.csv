@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator
+C1,1,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded
+J1,1,QWIIC,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,,,,smt,"Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/SMD_single_row_plus_mounting_pad
+J2,1,NUNCHUCK,Wii_Nunchuck_Edge_Connector,,,,smt,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",
+"R1, R2",2,4.7KΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded

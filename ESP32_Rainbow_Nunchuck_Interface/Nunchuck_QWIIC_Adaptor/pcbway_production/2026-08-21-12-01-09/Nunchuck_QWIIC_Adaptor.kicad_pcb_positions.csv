@@ -1,0 +1,6 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+91.1766,-68.3702,0.0,top,C1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt
+91.3718,-76.1172,0.0,top,J1,,,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,QWIIC,smt
+91.0496,-59.6072,0.0,top,J2,,,Wii_Nunchuck_Edge_Connector,NUNCHUCK,smt
+94.1043,-70.9102,0.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4.7KΩ,smt
+88.2943,-70.9102,180.0,top,R2,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4.7KΩ,smt
