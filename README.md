@@ -16,6 +16,9 @@ Convert 5-pin DIN video output to DE15 VGA:
 - Pin 4 = green
 - Pin 5 = red
 
+## [ESP32 Rainbow Nunchuck Interface](/ESP32_Rainbow_Nunchuck_Interface)
+A small QWIIC-to-Nunchuck interface adaptor board for the [ESP32 Rainbow](https://www.esp32rainbow.com).
+
 ## [Leningrad-2 DIN to VGA](/Leningrad_2_DIN-to-VGA)
 Convert 5-pin DIN video output to DE15 VGA:
 
