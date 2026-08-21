@@ -78,7 +78,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
@@ -119,7 +119,7 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "starved_thermal": "ignore",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
@@ -660,7 +660,7 @@
         "uuid": "cb9e90f0-1f5d-454d-84a2-6278e6c16fd4"
       }
     ],
-    "used_designators": "C1,R1-2,#PWR1-3,J1-3",
+    "used_designators": "#PWR2",
     "variants": []
   },
   "sheets": [
