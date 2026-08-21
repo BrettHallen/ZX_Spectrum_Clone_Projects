@@ -25,3 +25,4 @@ Kvant_BK_DIN-to-VGA/fp-info-cache
 /Astra/KiCad/Astra-backups
 /Astra/AstraPad/AstraPad-backups
 *.lck
+/ESP32_Rainbow_Nunchuck_Interface/Nunchuck_QWIIC_Adaptor/Nunchuck_QWIIC_Adaptor-backups
